@@ -1,4 +1,4 @@
-# weatherappvue
+# My-Weather
 
 ## Project setup
 ```
